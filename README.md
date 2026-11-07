@@ -73,17 +73,7 @@ Dự án bao gồm các tài liệu phân tích và thiết kế sau:
 | ERD | Database entities and relationships. | Các thực thể và mối quan hệ dữ liệu. |
 | Project Report | Overall project analysis and documentation. | Báo cáo tổng hợp phân tích và tài liệu dự án. |
 
-### Documentation Links | Liên kết tài liệu
-
-## 5. Giao diện hệ thống | Screenshots
-
-The system provides different interfaces based on user roles.
-
-Hệ thống cung cấp các giao diện khác nhau tùy theo vai trò người dùng.
-
-### Patient Interface | Giao diện bệnh nhân
-
-## 6. Công nghệ sử dụng | Technologies
+## 4. Công nghệ sử dụng | Technologies
 
 | Category | Technologies | Mô tả |
 |---|---|---|
@@ -91,13 +81,13 @@ Hệ thống cung cấp các giao diện khác nhau tùy theo vai trò người 
 | System Modeling | Draw.io, Astah UML | Mô hình hóa hệ thống |
 | Development Tools | Visual Studio Code, Git, GitHub | Công cụ phát triển và quản lý mã nguồn |
 
-## 7. Những gì học được | What I Learned
+## 5. Những gì học được | What I Learned
 
 Qua dự án, em hiểu rõ hơn cách phân tích yêu cầu trước khi xây dựng một hệ thống. Em cũng có cơ hội thực hành viết User Story, xây dựng Use Case, ERD và mô tả các luồng nghiệp vụ.
 
 Ngoài ra, việc trực tiếp xây dựng giao diện bằng HTML, CSS và JavaScript giúp hiểu rõ hơn cách các yêu cầu được thể hiện thành chức năng trên hệ thống.
 
-## 8. Cách chạy dự án | How to Run
+## 6. Cách chạy dự án | How to Run
 
 **Yêu cầu:** Trình duyệt web và Visual Studio Code.
 
